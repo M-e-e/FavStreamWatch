@@ -3,7 +3,7 @@
 
 ## Let me introduce you to the solution: FavStreamWatch 2000...well without the 2000... Simply put the name of your favourite streamer in the list and start the program! Now close it and forget about it! Whenever they start streaming you will get a notification on your pc which will lead directly to their stream!
 
-# thanks to my girlfriend for telling me what to do today when I asked her :*
+### thanks to my girlfriend for telling me what to do today when I asked her :*
 
 ![Screenshot - 1](https://i.imgur.com/7dmyju7.png)
 
